@@ -19,10 +19,3 @@ Este repositório contém soluções em C para desafios de lógica e programaç�
 5. **Inversão de String**
    - Código para inverter uma string sem usar funções prontas como `strrev()`.
 
-## Como Executar
-
-1. Compile e execute os códigos utilizando um compilador C como `gcc`.
-2. Exemplos de comando:
-   ```bash
-   gcc nome_do_arquivo.c -o nome_do_programa
-   ./nome_do_programa
